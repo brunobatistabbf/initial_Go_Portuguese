@@ -33,3 +33,5 @@ func escrever(texto string) {
 
 	}
 }
+
+//sincronizando as routines
