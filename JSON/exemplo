@@ -1,0 +1,15 @@
+//sintaxe
+
+{
+  "Nome " : "",
+  "Idade" : 5,
+  "Cursos": [
+    {
+      "nome": "Engenharia"
+    }
+
+  ]
+
+}
+//Json armazena dados e manda dados
+//É Muito usado por exemplo em paginas web
