@@ -14,7 +14,7 @@ func main() {
 	//URI - identificador do recurso
 	//metodo - GET, POST, PUT, DELETE
 
-	http.HandleFunc("", func(w http.ResponseWriter, r *http.Request) {
+	http.HandleFunc("/home", func(w http.ResponseWriter, r *http.Request) {
 		w.Write([]byte("Ola mundo"))
 
 	})
