@@ -1,4 +1,4 @@
-package JSON
+package main
 
 //pacote para trabalhar com json
 import (
